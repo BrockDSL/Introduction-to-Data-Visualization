@@ -1,41 +1,26 @@
-Add in the workshop image here 
-
-![Tool Logo](Image filename)
+![Tool Logo](Introduction-to-Data-Visualization.jpg)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process.
+# Introduction to Data Visualization
+The goal of this session is to provide a description and explanation of the What, Why, and How of visualizations.  This workshop will cover:
 
-Note recommending any prerequisite knowledge needed for the workshop.  If none is needed then say "No prior experience with WORKSHOP-TOPIC/TOOL is needed for this workshop."
+- What a data visualization is
+- Why are they important
+- What some of the popular tools are for making data visualizations
+- Best practices
+- And last an activity where we will make some basic data visualizations
 
-*Estimated length of workshop: ## hours*
+*Estimated length of workshop: 1 hour*
 
-----
-
-## Setup Instructions
-In preparation for this workshop, you will need...
-
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
-
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
 
 ----
 
-## Helpful Materials
-Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
+## Next Steps
+
+The best thing you can do is keep making visualizations using as many tools as possible to built your experience.  Also looking at examples others have made can help inspire you like [Tableau's Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day).
+
 
 ----
-
-## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
-
-----
-  
-**End notes**
-This is where you mention the DSL, MDGL, or Research Lifecycle department and put in contact information.  An example of what this might look like is:
 
 **This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.  For additional inquiries, contact [DSL@Brocku.ca](mailto:DSL@Brocku.ca)**
 
