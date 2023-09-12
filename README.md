@@ -1,4 +1,4 @@
-![Tool Logo](Introduction-to-Data-Visualization.jpg)
+![Tool Logo](Introduction-to-Data-Visualization.jpg) 
 
 
 # Introduction to Data Visualization
